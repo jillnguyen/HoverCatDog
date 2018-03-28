@@ -1,0 +1,28 @@
+* {
+    width: 970px;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 2px solid hotpink;
+    text-align: center;
+}
+img {
+    width: 22%;
+    height: 150px;
+    border: 1px solid grey;
+    display: inline-block;
+    margin: 15px 10px;
+}
+button {
+    background-color: hotpink;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
